@@ -47,4 +47,6 @@ O dataset original está publicamente disponível na plataforma Kaggle e pode se
 
 O resultado final é um dashboard interativo no Looker Studio que apresenta os principais KPIs de negócio, como Receita Total, Ticket Médio, Taxa de Conversão, Vendas por Categoria e Análise de Clientes. A arquitetura implementada permite que o dashboard realize consultas em tempo real sobre milhões de linhas de forma eficiente.
 
+* **Link do Dash:** https://lookerstudio.google.com/reporting/79007484-9beb-4505-a264-344d27413611
+
 <img width="1197" height="899" alt="image" src="https://github.com/user-attachments/assets/9a25d4f1-4334-4226-a96d-cd77f8f17782" />
